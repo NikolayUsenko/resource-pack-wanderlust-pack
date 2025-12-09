@@ -1,5 +1,7 @@
 {
-  "advancements.buzzier_bees.adventure.four_leaf_clover.title": "Сегодня повезло тебе...",
+  "block.buzzier_bees.oak_beehive": "Дубовый улей",
+
+	"advancements.buzzier_bees.adventure.four_leaf_clover.title": "Сегодня повезло тебе...",
 	"advancements.buzzier_bees.adventure.four_leaf_clover.description": "Найдите четырехлистный клевер",
 	"advancements.buzzier_bees.husbandry.use_honey_apple.title": "По яблоку в день",
 	"advancements.buzzier_bees.husbandry.use_honey_apple.description": "Сьешьте яблоко в меду, чтобы избавится от эффекта «левитация»",
