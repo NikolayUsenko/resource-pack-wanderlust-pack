@@ -13,7 +13,7 @@
   "lootr.message.refresh_in": "Содержимое этого контейнера обновится через %s секунд.",
   "lootr.message.refresh_start": "Контейнер обновится с новым содержимым через %s секунд!",
   "block.lootr.lootr_chest": "Сундук с добычей",
-  "block.lootr.lootr_trapped_chest": "Сундук с добычей",
+  "block.lootr.lootr_trapped_chest": "Сундук-ловушка с добычей",
   "block.lootr.lootr_barrel": "Бочка с добычей",
   "block.lootr.lootr_inventory": "Сундук с добычей",
   "block.lootr.lootr_shulker": "Шалкеровый ящик с добычей",
