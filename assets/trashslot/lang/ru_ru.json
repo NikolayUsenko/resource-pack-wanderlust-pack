@@ -1,0 +1,8 @@
+{
+  "trashslot.serverNotInstalled": "На сервере не установлен мод TrashSlot. Этот мод будет отключён.",
+  "key.trashslot.toggle": "Показать/Скрыть Корзину",
+  "key.trashslot.delete": "Удалить предмет",
+  "key.trashslot.deleteAll": "Удалить все предметы этого типа",
+  "key.categories.trashslot": "TrashSlot",
+  "trashslot.config.instantDeletion": "Мгновенное удаление"
+}

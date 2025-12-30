@@ -1,4 +1,17 @@
 {
   "key.waila.show_recipes": "Показать рецепты",
-  "key.waila.show_uses": "Показать применения"
+  "key.waila.show_uses": "Показать применение",
+  "config.waila.display_fluids_source_only": "Только источник",
+  "config.waila.display_fluids_any": "Любая",
+  "config.waila.display_fluids_none": "Никакие",
+  "config.waila.display_item_hide": "Скрыть",
+  "config.waila.display_item_top": "Сверху",
+  "config.waila.display_item_centered": "По центру",
+  "config.waila.reach_distance": "Увеличенная дальность",
+  "config.waila.overlay_anchor_x": "Горизонтальная привязка",
+  "config.waila.overlay_anchor_y": "Вертикальная привязка",
+  "config.waila.overlay_square": "Квадратный",
+  "config.waila.flip_main_hand": "Отразить основную руку",
+  "entity.minecraft.villager.nitwit": "Нищий",
+  "command.dump.success": "Успешный сброс данных"
 }

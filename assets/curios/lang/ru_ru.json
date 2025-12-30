@@ -1,0 +1,6 @@
+{
+  "commands.curios.drop.success": "Выкинуты предметы в слоте %s для %s",
+  "commands.curios.dropAll.success": "Выкинуты предметы во всех слотах для %s",
+  "commands.curios.replace.success": "Заменён слот %s для %s на %s",
+  "argument.entity.options.curios.description": "Инвентарь украшений сущности"
+}

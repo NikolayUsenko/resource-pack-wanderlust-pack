@@ -1,0 +1,8 @@
+{
+  "jei.tooltip.error.recipe.transfer.disabled": "Конфигурация сервера отключила перенос рецептов из JEI",
+  "jei.chat.error.no.cheat.permission.disabled": "На этом сервере читерский режим JEI отключён для всех игроков.",
+  "jei.chat.error.no.cheat.permission.enabled": "На этом сервере Читерский режим JEI доступен следующим игрокам:",
+  "jei.chat.error.no.cheat.permission.creative": "игроки в Творческом режиме",
+  "jei.chat.error.no.cheat.permission.op": "игроки со Cтатусом Оператора (/op)",
+  "jei.chat.error.no.cheat.permission.give": "игроки, которые могут использовать /give"
+}

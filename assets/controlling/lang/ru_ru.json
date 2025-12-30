@@ -1,0 +1,15 @@
+{
+  "options.search": "Поиск",
+  "options.showAll": "Показать все",
+  "options.showConflicts": "Конфл-щие",
+  "options.showNone": "Не привяз.",
+  "options.availableKeys": "Доступные клавиши",
+  "options.sort": "Сорт.",
+  "options.category": "Категория",
+  "options.key": "Клавиша",
+  "options.sortNone": "Ничего",
+  "options.sortAZ": "А->Я",
+  "options.sortZA": "Я->А",
+  "options.toggleFree": "Свободные",
+  "options.confirmReset": "Подтвердить?"
+}
