@@ -33,5 +33,17 @@
   "item.neapolitan.magic_beans": "Волшебные бобы",
   "item.neapolitan.mint_chocolate": "Мятный шоколад",
   "item.neapolitan.strawberry_bean_bonbons": "Клубнично-бобовые бонбоны",
-  "item.neapolitan.adzuki_curry": "Карри с бобами адзуки"
+  "item.neapolitan.adzuki_curry": "Карри с бобами адзуки",
+
+  "advancements.neapolitan.husbandry.creeper_heal.title": "Бомба любви",
+  "advancements.neapolitan.husbandry.creeper_heal.description": "Вылечитесь от крипера, который взорвался в клубничном кусте",
+  
+  "advancements.neapolitan.husbandry.vanilla_poison.title": "Ваниль-убийца",
+  "advancements.neapolitan.husbandry.vanilla_poison.description": "Сломайте ваниль без ножниц, высвободив вредную ауру",
+  
+  "advancements.neapolitan.husbandry.place_all_chocolate_blocks.title": "В шоколаде",
+  "advancements.neapolitan.husbandry.place_all_chocolate_blocks.description": "Поставьте все виды шоколадных блоков",
+  
+  "advancements.neapolitan.husbandry.harvest_white_strawberries.title": "Пикник в облаках",
+  "advancements.neapolitan.husbandry.harvest_white_strawberries.description": "Получите белую клубнику вырастив её на большой высоте"
 }
